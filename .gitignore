@@ -1,0 +1,24 @@
+# Folder view configuration files
+.DS_Store
+.ipynb_checkpoints
+
+# Icon
+Icon\r
+Icon\r\r
+Icon[
+]
+Icon?
+"Icon[\r]"
+Icon[\r]
+
+# VS Code Settings
+.vscode
+
+# Compiled Python files
+*.pyc
+
+# Pycache
+__pycache__
+
+# DarkSky ID
+darkskyid.txt
