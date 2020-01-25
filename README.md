@@ -8,4 +8,4 @@ __*weather_data.py*__ - .py file with get_weather()
 
 ## TODO
 
-- [ ] figure out how to reference python files in other directories without changing directory
+- [ ] make file installable on pypi
