@@ -20,5 +20,6 @@ Icon[\r]
 # Pycache
 __pycache__
 
-# DarkSky ID
+# API IDs
 darkskyid.txt
+noaa_token.txt
