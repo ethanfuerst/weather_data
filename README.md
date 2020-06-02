@@ -2,9 +2,13 @@
 
 Looking at weather all over the globe with Dark Sky API.
 
-## Files in this repository
+## Files in this repository by extension
 
-__*weather_data.py*__ - .py file with get_weather()
+### .py
+
+__*weather_data.py*__ - get_weather()
+
+__*new_weather_data.py*__ - using new API because Dark Sky will be inactive after 2021
 
 ## TODO
 
